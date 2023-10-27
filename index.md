@@ -20,4 +20,8 @@ You can contact me at: mz_mehmood [at] berkeley [dot] edu
 
 <i class="ai ai-google-scholar-square ai-2x"></i> [Google Scholar](https://scholar.google.com/citations?hl=en&user=rVX87fYAAAAJ)
 
+<i class="ai ai-orcid-square ai-2x"></i> [ORCID](https://orcid.org/0000-0002-3906-3231)
+
 <i class="fab fa-fw fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/muhammad-zia-mehmood-273b3932/)
+
+
