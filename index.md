@@ -17,3 +17,5 @@ My research interests are in Development Economics and Political Economy.
 **I am on the 2023/2024 academic job market.** ([Curriculum Vitae](/assets/cv/zia_20220929_cv.pdf))
 
 You can contact me at: mz_mehmood [at] berkeley [dot] edu
+
+<i class="ai ai-google-scholar-square"></i>
