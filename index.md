@@ -18,4 +18,6 @@ My research interests are in Development Economics and Political Economy.
 
 You can contact me at: mz_mehmood [at] berkeley [dot] edu
 
-<i class="ai ai-google-scholar-square"></i>
+<i class="ai ai-google-scholar-square ai-2x"></i> [Google Scholar](https://scholar.google.com/citations?hl=en&user=rVX87fYAAAAJ)
+
+<i class="fab fa-fw fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/muhammad-zia-mehmood-273b3932/)
