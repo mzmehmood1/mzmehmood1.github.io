@@ -1,8 +1,16 @@
+---
+layout: splash # archive
+author_profile: false
+permalink: /services/
+title: "Actuarial Consulting Services"
+classes: wide
+---
+
 **Working Papers**
 -----
 
 **Texting to Train Micro-Entrepreneurs: Experimental Evidence from Kenya** 
-***Job Market Paper*** ([draft](https://mzmehmood1.github.io))
+***Job Market Paper*** ([draft](https://mzmehmood1.github.io))\
 *Abstract*\
 *Coming Soon*\
 
