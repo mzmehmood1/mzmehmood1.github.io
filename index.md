@@ -2,43 +2,16 @@
 layout: splash # archive
 author_profile: false
 permalink: /
-title: "Actuarial & Analytics Services"
+title: "Muhammad Zia Mehmood"
 classes: wide
-
-header:
-  #overlay_color: "#333"
-  overlay_image: /assets/images/back2.png
-  actions:
-     - label: "Services"
-       url: "/services/"
-     - label: "Contact"
-       url: "/about/"
-     - label: "Nuovalo"
-       url: "https://www.nuovalo.com"
-
-feature_row:
-  - image_path: /assets/images/service.png
-    alt: #"Bits and Bolts"
-    title: "Services"
-    excerpt: "Actuarial, Analytics and Technology Services"
-    url: "/services/"
-    btn_class: "btn--primary"
-    btn_label: "Services"
-  - image_path: /assets/images/tontines.png
-    alt: #"P2P Pension Fund"
-    title: "Modern Tontines"
-    excerpt: "Fully funded, lifetime pensions at low cost"
-    url: "/modern-tontines/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/about.png
-    alt: #"P2P Pension Fund"
-    title: "About"
-    excerpt: "Presentation and Experience"
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "About"
-
 ---
 
-{% include feature_row %}
+<img src="{{site.url}}/images/zia.jpg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
+
+Welcome!
+
+I’m a PhD candidate at UC Berkeley, in the [Business and Public Policy group]("https://haas.berkeley.edu/bpp) at the Haas School of Business. I hold a Masters in Public Policy from the Harvard Kennedy School, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
+
+**I am on the 2023/2024 academic job market.** ([Curriculum Vitae](https://ziamehmood.com/files/zia_20220929_cv.pdf))
+
+You can contact me at: mz_mehmood [at] berkeley [dot] edu
