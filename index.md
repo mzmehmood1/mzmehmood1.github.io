@@ -14,7 +14,7 @@ I’m a PhD candidate at UC Berkeley, in the [Business and Public Policy group](
 
 My research interests are in Development Economics and Political Economy.
 
-**I am on the 2023/2024 academic job market.** ([Curriculum Vitae](/assets/cv/zia_20220929_cv.pdf))
+**I am on the 2023/2024 academic job market.**
 
 You can contact me at: mz_mehmood [at] berkeley [dot] edu
 
