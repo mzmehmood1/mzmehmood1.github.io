@@ -9,7 +9,7 @@
 
 html {
   font-size: 16px; // change to whatever //16
-  $footer-background-color: 'grey';
+  footer-background-color: 'grey';
 
   @include breakpoint($medium) {
     font-size: 16px; // change to whatever //18
