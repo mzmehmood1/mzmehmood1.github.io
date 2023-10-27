@@ -9,7 +9,7 @@ classes: wide
 **Job Market Paper**
 -----
 
-**[Short Messages Fall Short for Micro-Entrepreneurs: Experimental Evidence from Kenya](mzmehmood1.github.io)** \
+**Short Messages Fall Short for Micro-Entrepreneurs: Experimental Evidence from Kenya** \
 *Abstract Coming Soon* 
 
 
