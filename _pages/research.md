@@ -1,8 +1,7 @@
 ---
-layout: archive
-author_profile: false
-permalink: /research/
 title: "Research"
+permalink: /research/
+author_profile: false
 ---
 
 **Working Papers**
