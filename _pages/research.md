@@ -9,7 +9,7 @@ classes: wide
 **Job Market Paper**
 -----
 
-**[Texting to Train Micro-Entrepreneurs: Experimental Evidence from Kenya](mzmehmood1.github.io)** \
+**[Short Messages Fall Short for Micro-Entrepreneurs: Experimental Evidence from Kenya](mzmehmood1.github.io)** \
 *Abstract Coming Soon* 
 
 
@@ -29,11 +29,14 @@ A long-established approach to management in government has been the transmissio
 **Work in Progress**
 -----
 
-"Mobile Mentoring: Supporting Education of Children of Sex Workers in Kenya"\
-with Stephanie Bonds and Eric Ochieng
-
 "Politics of Environmental Protection: Evidence from India"\
 with Suraj R. Nair
 
 "Accounting for Accounting: Book-keeping Lessons from Nigeria"\
 with Abiola Oyebanjo and Anne Krahn
+
+"Mobile Mentoring: Supporting Education of Children of Sex Workers in Kenya"\
+with Stephanie Bonds and Eric Ochieng
+
+
+-----
