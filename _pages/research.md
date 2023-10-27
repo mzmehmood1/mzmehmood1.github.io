@@ -10,7 +10,7 @@ classes: wide
 -----
 
 **Texting to Train Micro-Entrepreneurs: Experimental Evidence from Kenya**\
-***Job Market Paper*** ([draft](https://mzmehmood1.github.io))\
+***Job Market Paper*** ([draft](https://mzmehmood1.github.io))
 
 **Abstract**\
 *Coming Soon*
