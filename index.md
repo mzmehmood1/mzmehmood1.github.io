@@ -12,6 +12,6 @@ Welcome!
 
 I’m a PhD candidate at UC Berkeley, in the [Business and Public Policy group]("https://haas.berkeley.edu/bpp) at the Haas School of Business. I hold a Masters in Public Policy from the Harvard Kennedy School, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
 
-**I am on the 2023/2024 academic job market.** ([Curriculum Vitae](https://ziamehmood.com/files/zia_20220929_cv.pdf))
+**I am on the 2023/2024 academic job market.** ([Curriculum Vitae](/assets/cv/zia_20220929_cv.pdf))
 
 You can contact me at: mz_mehmood [at] berkeley [dot] edu
