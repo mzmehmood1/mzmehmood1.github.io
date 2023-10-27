@@ -154,8 +154,8 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      icon: "ai ai-google-scholar ai-4x"
+      url: "https://scholar.google.com/citations?hl=en&user=rVX87fYAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mzmehmood1/"
