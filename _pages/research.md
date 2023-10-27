@@ -26,10 +26,10 @@ A long-established approach to management in government has been the transmissio
 
 -----
 
-**Work in Progress**
+**Selected Work in Progress**
 -----
 
-"Politics of Environmental Protection: Evidence from India"\
+"The Political Economy of Environmental Protection: Evidence from India"\
 with Suraj R. Nair
 
 "Accounting for Accounting: Book-keeping Lessons from Nigeria"\
