@@ -33,7 +33,7 @@ name                     : "Muhammad Zia Mehmood"
 description              : #"Actuarial & Analytics Services"
 url                      : "https://mzmehmood.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               :  pascal-winter/website # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               :  mzmehmood1/mzmehmood1.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #repository               :  pascal-winter/pascal-winter.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #logo                     : "assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -153,12 +153,12 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pascal-winter/"
+      url: "https://github.com/mzmehmood1/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -170,7 +170,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pascal-winter-b90099a1/"
+      url: "https://www.linkedin.com/in/muhammad-zia-mehmood-273b3932/"
 
 # Reading Files
 include:
