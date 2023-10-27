@@ -15,14 +15,14 @@
   main:
   - title: "Home"
     url: /
-  - title: "Services"
-    url: /services/
-  - title: "Modern Tontines"
-    url: /modern-tontines/
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  #- title: "About"
+  #url: /about/
+  #- title: "Contact"
+   # url: /contact/
 
 
 # Sidebar #################
