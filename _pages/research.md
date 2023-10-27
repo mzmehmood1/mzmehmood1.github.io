@@ -1,18 +1,18 @@
 ---
-layout: splash # archive
+layout: archive
 author_profile: false
-permalink: /services/
-title: "Actuarial Consulting Services"
-classes: wide
+permalink: /research/
+title: "Research"
 ---
 
 **Working Papers**
 -----
 
-**Texting to Train Micro-Entrepreneurs: Experimental Evidence from Kenya** 
+**Texting to Train Micro-Entrepreneurs: Experimental Evidence from Kenya**\
 ***Job Market Paper*** ([draft](https://mzmehmood1.github.io))\
-*Abstract*\
-*Coming Soon*\
+
+**Abstract**\
+*Coming Soon*
 
 **[Command and Can't Control: Assessing Centralized Accountability in the Public Sector](https://mzmehmood1.github.io/files/Gulzar_et_al.pdf)**\
 with Saad Gulzar, Juan Felipe Ladino and Daniel Rogger
