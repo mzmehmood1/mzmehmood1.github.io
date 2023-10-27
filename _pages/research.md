@@ -15,7 +15,7 @@ classes: wide
 **Abstract**\
 *Coming Soon*
 
-**[Command and Can't Control: Assessing Centralized Accountability in the Public Sector](https://mzmehmood1.github.io/files/Gulzar_et_al.pdf)**\
+**[Command and Can't Control: Assessing Centralized Accountability in the Public Sector](/assets/publications/Gulzar_et_al.pdf)**\
 with Saad Gulzar, Juan Felipe Ladino and Daniel Rogger
 
 **Abstract**\
