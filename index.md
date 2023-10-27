@@ -6,7 +6,7 @@ title: "Muhammad Zia Mehmood"
 classes: wide
 ---
 
-<img src="{{site.url}}/images/zia.jpg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
+<img src="/images/zia.jpg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
 
 Welcome!
 
