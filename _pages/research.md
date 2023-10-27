@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: false
+layout: wide
 ---
 
 **Working Papers**
