@@ -22,7 +22,7 @@ classes: wide
 *Haas Business School, University of California Berkeley*\
 Fall 2020, Fall 2021, Fall 2022
 
-**Primary Instructor - Principles of Economics [ECON1]*** (Undergraduate level course)\
+**Primary Instructor - Principles of Economics [ECON1]** (Undergraduate level course)\
 *Department of Economics, University of California Berkeley*\
 Summer 2022
 
