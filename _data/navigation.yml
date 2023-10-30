@@ -13,8 +13,8 @@
 
 # Top  Banner #################
   main:
-  - title: "Home"
-    url: /
+  #- title: "Home"
+  #  url: /
   - title: "CV"
     url: /assets/cv/zia_20231027_cv.pdf
   - title: "Research"
