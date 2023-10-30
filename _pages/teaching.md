@@ -6,15 +6,6 @@ author_profile: false
 classes: wide
 ---
 
-**Teaching Awards**
------
-
-**2023 Earl F. Cheit Award for Excellence in Teaching - Graduate Student Instructor**\
-*Haas Business School, University of California Berkeley*
-
-
------
-
 **Teaching Experience**
 -----
 
@@ -25,6 +16,15 @@ Fall 2020, Fall 2021, Fall 2022
 **Primary Instructor - Principles of Economics [ECON1]** (Undergraduate level course)\
 *Department of Economics, University of California Berkeley*\
 Summer 2022
+
+
+-----
+
+**Teaching Awards**
+-----
+
+**2023 Earl F. Cheit Award for Excellence in Teaching - Graduate Student Instructor**\
+*Haas Business School, University of California Berkeley*
 
 
 -----
