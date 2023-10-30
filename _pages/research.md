@@ -9,7 +9,7 @@ classes: wide
 **Job Market Paper**
 -----
 
-**Short Messages Fall Short for Micro-Entrepreneurs: Experimental Evidence from Kenya** \
+**Short Messages Fall Short for Micro-Entrepreneurs: Experimental Evidence from Kenya** 
 
 Due to their low costs and scalability, SMS-based business trainings are becoming a popular tool to remotely support micro-entrepreneurs in low-income settings. However, little evidence exists on the effectiveness of such trainings to improve business outcomes for micro-entrepreneurs. In this study, I evaluate a field experiment in which access to an SMS-based training was randomized across 4,700 micro-entrepreneurs in Kenya. I find positive effects on knowledge and adoption of best practices after three months. Furthermore, I find that business performance and survival improved for younger entrepreneurs, driven by higher engagement with the content, and stronger positive effects on time spent on business and loans applied for and received. Contrary to priors of social scientists, I find that these positive effects disappear twelve months after the intervention. Despite the lack of long-run effects, I find that micro-entrepreneurs are still willing to pay for additional SMS-based trainings, suggesting that they value access to the content.
 
