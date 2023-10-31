@@ -10,7 +10,7 @@ classes: wide
 
 Welcome!
 
-I’m a PhD candidate at UC Berkeley, in the [Business and Public Policy group]("https://haas.berkeley.edu/bpp) at the Haas School of Business. I hold a Masters in Public Policy from the Harvard Kennedy School, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
+I’m a PhD candidate at UC Berkeley in the Business and Public Policy group at the Haas School of Business. I hold a Masters in Public Policy from the Harvard Kennedy School, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
 
 My research interests are in Development Economics and Political Economy.
 
