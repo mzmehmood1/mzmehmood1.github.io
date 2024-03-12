@@ -36,7 +36,7 @@ A long-established approach to management in government has been the transmissio
 -----
 
 "The Political Economy of Environmental Protection: Evidence from India"\
-*with Suraj R. Nair*
+*with Juan Felipe Ladino and Suraj R. Nair*
 
 "Accounting for Accounting: Book-keeping Lessons from Nigeria"\
 *with Abiola Oyebanjo and Anne Krahn*
