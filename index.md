@@ -10,11 +10,11 @@ classes: wide
 
 Welcome!
 
-I’m a PhD candidate at UC Berkeley in the Business and Public Policy group at the Haas School of Business. I hold a Masters in Public Policy from the Harvard Kennedy School, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
+I’m an applied microeconomist from the Business and Public Policy PhD program at the Haas School of Business, UC Berkeley. I hold a Masters in Public Policy from the Harvard Kennedy School, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
 
 My research interests are in Development Economics and Political Economy.
 
-**I am on the 2023/2024 academic job market.**
+**I am on the 2024/2025 academic job market.**
 
 You can contact me at: mz_mehmood [at] berkeley [dot] edu
 
