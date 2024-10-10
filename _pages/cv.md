@@ -6,4 +6,4 @@ author_profile: false
 classes: wide
 ---
 
-[cv](/assets/cv/zia_2024_cv.pdf).
+[cv](/assets/cv/Mehmood_CV_jm2024.pdf).
