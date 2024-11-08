@@ -10,9 +10,7 @@ classes: wide
 
 Welcome!
 
-I’m an applied microeconomist from the Business and Public Policy PhD program at the Haas School of Business, UC Berkeley. I hold a Masters in Public Policy from the Harvard Kennedy School, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
-
-My research interests are in Development Economics and Political Economy.
+I’m an applied microeconomist studing policy-focused topics in development economics and political economy as a Research Fellow at Princeton University. I hold a PhD in Business and Public Policy from Haas School of Business at University of California Berkeley, a Masters in Public Policy from the John F. Kennedy School of Government at Harvard University, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
 
 **I am on the 2024/2025 academic job market.**
 
