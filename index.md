@@ -1,7 +1,7 @@
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
-  <img src="/images/zia.jpg" style="width: 300px; max-width: 100%; height: auto; flex-shrink: 0;" />
-  <div style="flex: 1; min-width: 250px;">
-  
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 40px; margin-bottom: 1em;" markdown="1">
+  <img src="/images/zia.jpg" style="width: 300px; max-width: 100%; height: auto; flex-shrink: 0; margin-top: 6px;" />
+  <div style="flex: 1; min-width: 280px;">
+
 Welcome!
 
 I am an applied microeconomist studying decision-making in both private and public sector settings, and how they shape organizational performance, service delivery, and development outcomes. My work uses experimental and non-experimental methods including field experiments, natural experiments, and causal inference with large administrative datasets, to generate actionable insights for decision-makers in public and private settings.
@@ -12,9 +12,9 @@ Currently, I am a Research Fellow at Princeton University, where I work on appli
 
 You can contact me at: mz_mehmood [at] berkeley [dot] edu
 
-<i class="ai ai-google-scholar-square"></i> [Google Scholar](https://scholar.google.com/citations?hl=en&user=rVX87fYAAAAJ)  
-<i class="ai ai-orcid-square"></i> [ORCID](https://orcid.org/0000-0002-3906-3231)  
-<i class="fab fa-fw fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/muhammad-zia-mehmood-273b3932/)
+[<i class="ai ai-google-scholar-square"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=rVX87fYAAAAJ)  
+[<i class="ai ai-orcid-square"></i> ORCID](https://orcid.org/0000-0002-3906-3231)  
+[<i class="fab fa-fw fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/muhammad-zia-mehmood-273b3932/)
 
   </div>
 </div>
