@@ -10,9 +10,11 @@ classes: wide
 
 Welcome!
 
-I’m an applied microeconomist studing policy-focused topics in development economics and political economy as a Research Fellow at Princeton University. I hold a PhD in Business and Public Policy from Haas School of Business at University of California Berkeley, a Masters in Public Policy from the John F. Kennedy School of Government at Harvard University, and a BSc. (honors) in Economics from the Lahore University of Management Sciences (Pakistan).
+I am an applied microeconomist studying decision-making in both private and public sector settings, and how they shape organizational performance, service delivery, and development outcomes. My work uses experimental and non-experimental methods—including field experiments, natural experiments, and causal inference with large administrative datasets, to generate actionable insights for decision-makers in public and private settings.
 
-**I am on the 2024/2025 academic job market.**
+I have led and contributed to projects in multiple contexts across South Asia and Sub-Saharan Africa, working on topics such as entrepreneurship, management, public sector accountability, and health and education delivery in low-capacity settings. My research is designed to be relevant for both development organizations and data-driven companies aiming to improve the effectiveness and scalability of their programs, platforms, or interventions.
+
+Currently, I am a Research Fellow at Princeton University, where I work on applied policy questions in development economics and political economy. I hold a Ph.D. in Business and Public Policy from the Haas School of Business at the University of California, Berkeley, a Master in Public Policy from the Harvard Kennedy School, and a BSc (Honors) in Economics from the Lahore University of Management Sciences.
 
 You can contact me at: mz_mehmood [at] berkeley [dot] edu
 
