@@ -1,5 +1,3 @@
-
-
 ---
 layout: splash # archive
 author_profile: false
