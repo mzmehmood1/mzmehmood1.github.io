@@ -34,14 +34,16 @@ A long-established approach to management in government has been the transmissio
 **Selected Work in Progress**
 -----
 
+"Weather and Effort in Public Administration"\
+*with Juan Esteban Garzon, Saad Gulzar, Juan Felipe Ladino and Daniel Rogger*
+
 "The Political Economy of Environmental Protection: Evidence from India"\
 *with Juan Felipe Ladino and Suraj R. Nair*
-
-"Accounting for Accounting: Book-keeping Lessons from Nigeria"\
-*with Abiola Oyebanjo and Anne Krahn*
 
 "Mobile Mentoring: Supporting Education of Children of Sex Workers in Kenya"\
 *with Stephanie Bonds and Eric Ochieng*
 
+"Accounting for Accounting: Book-keeping Lessons from Nigeria"\
+*with Abiola Oyebanjo and Anne Krahn*
 
 -----
