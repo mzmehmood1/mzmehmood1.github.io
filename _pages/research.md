@@ -25,7 +25,7 @@ SMS-based business trainings are becoming a popular tool to remotely support mic
 -----
 
 **[Command and Can't Control: Assessing Centralized Accountability in the Public Sector](/assets/publications/Gulzar_et_al.pdf)**\
-*with Saad Gulzar, Juan Felipe Ladino and Daniel Rogger*
+*with Saad Gulzar, Juan Felipe Ladino and Daniel Rogger* (Revise & Resubmit at *Nature*)
 
 A long-established approach to management in government has been the transmission of information up a hierarchy, and centralized decision-making and oversight; colloquially known as ‘command and control’. This paper examines accountability in such a system implemented at scale in Punjab, Pakistan. Using random variation in the intensity of accountability of the scheme, we show that the corresponding de facto punishments had a negligible impact on school or student outcomes. We use detailed data on the education production function to show that this fundamental component of command-and-control approaches does not induce bureaucratic action towards improvements in government performance.
 
