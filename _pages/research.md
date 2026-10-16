@@ -40,9 +40,6 @@ Climate change imposes large costs on health, productivity, and learning, and go
 **Selected Work in Progress**
 -----
 
-"Weather and Effort in Public Administration"\
-*with Juan Esteban Garzon, Saad Gulzar, Juan Felipe Ladino and Daniel Rogger*
-
 "The Political Economy of Environmental Protection: Evidence from India"\
 *with Juan Felipe Ladino and Suraj R. Nair*
 
