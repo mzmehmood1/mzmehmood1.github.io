@@ -46,7 +46,7 @@ Climate change imposes large costs on health, productivity, and learning, and go
 "The Political Economy of Environmental Protection: Evidence from India"\
 *with Juan Felipe Ladino and Suraj R. Nair*
 
-"Mobile Mentoring: Supporting Education of Children of Sex Workers in Kenya"\
+"Mobile Mentoring: Supporting Education of Vulnerable Children in Kenya"\
 *with Stephanie Bonds and Eric Ochieng*
 
 "Accounting for Accounting: Book-keeping Lessons from Nigeria"\
