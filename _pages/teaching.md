@@ -6,51 +6,49 @@ author_profile: false
 classes: wide
 ---
 
-**Teaching Experience**
------
+## Teaching Experience
 
 ### Occidental College, Department of Economics
 
-**Visiting Assistant Professor, 2026–present**
+*Visiting Assistant Professor*\
+2026–present
 
-* **Economic Development (ECON 320), Fall 2026.** A 300-level undergraduate elective. Students use economic models, data, and empirical research to examine development challenges and assess policy responses. A team research project asks them to study a development problem, propose solutions grounded in evidence, and design a study to evaluate their recommendations.
-* **Managerial Economics (ECON 350), Fall 2026.** A 300-level undergraduate elective. I combine lectures on pricing, competition, uncertainty, and organizational incentives with case discussions following the Harvard Business School case method. Students develop, critique, and defend managerial recommendations. In a team project, they analyze a real product or service and communicate business strategies in a memo for a managerial audience.
-* **Intermediate Microeconomics, Spring 2027 (scheduled).**
+* Economic Development (ECON 320), Fall 2026. A 300-level undergraduate elective. Students use economic models, data, and empirical research to examine development challenges and assess policy responses. A team research project asks them to study a development problem, propose solutions grounded in evidence, and design a study to evaluate their recommendations.
+* Managerial Economics (ECON 350), Fall 2026. A 300-level undergraduate elective. I combine lectures on pricing, competition, uncertainty, and organizational incentives with case discussions following the Harvard Business School case method. Students develop, critique, and defend managerial recommendations. In a team project, they analyze a real product or service and communicate business strategies in a memo for a managerial audience.
+* Intermediate Microeconomics, Spring 2027 (scheduled).
 
 ### University of California, Berkeley
 
-**Primary Instructor, Department of Economics**\
+*Primary Instructor, Department of Economics*\
 Summer 2022
 
-* **Principles of Economics (ECON 1)**, undergraduate course.
+* Principles of Economics (ECON 1), undergraduate course.
 
-**Graduate Student Instructor, Haas School of Business**\
+*Graduate Student Instructor, Haas School of Business*\
 Fall 2020, Fall 2021, Fall 2022
 
-* **Economic Analysis for Business Decisions (MBA 201A)**, MBA course.
+* Economic Analysis for Business Decisions (MBA 201A), MBA course.
 
 -----
 
-**Teaching Awards**
+## Teaching Awards
+
+2023 Earl F. Cheit Award for Excellence in Teaching - Graduate Student Instructor\
+Haas School of Business, University of California, Berkeley
+
+
 -----
 
-**2023 Earl F. Cheit Award for Excellence in Teaching - Graduate Student Instructor**\
-*Haas School of Business, University of California, Berkeley*
+## Teaching Evaluations
 
+Berkeley Haas Evaluations (Fall 2022)
 
------
-
-**Teaching Evaluations**
------
-
-**Berkeley Haas Evaluations (Fall 2022)**
-
-* *[Fall 2022 - MBA201A (BLUE)](/assets/other/FALL2022_MBA201A_BLUE.pdf)*
-* *[Fall 2022 - MBA201A (GOLD)](/assets/other/FALL2022_MBA201A_GOLD.pdf)*
+* [Fall 2022 - MBA201A (BLUE)](/assets/other/FALL2022_MBA201A_BLUE.pdf)
+* [Fall 2022 - MBA201A (GOLD)](/assets/other/FALL2022_MBA201A_GOLD.pdf)
 
 
 
-**Selected Comments from Berkeley Haas MBA Evaluations (Fall 2022)**
+Selected Comments from Berkeley Haas MBA Evaluations (Fall 2022)
 
 * "Zia was not only incredibly personable and an entertaining person to  teach our sections but he is highly knowledgeable of economics as a whole and was easily able to answer all of our questions for him. He was succinct thorough and clear in all of his instructions and responses and I don't know if I've ever had a GSI before that could do this so well. He didn't skip a beat and our whole cohort was a huge fan of Zia."
 * "Zia was excellent. His sections were extremely helpful in explaining the math behind the material we covered in class."
