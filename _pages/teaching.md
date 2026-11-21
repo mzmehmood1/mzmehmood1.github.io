@@ -9,25 +9,25 @@ classes: wide
 **Teaching Experience**
 -----
 
-**Visiting Assistant Professor**\
-*Department of Economics, Occidental College*\
-2026–present
+### Occidental College, Department of Economics
 
-In Fall 2026, I teach two 300-level undergraduate electives:
+**Visiting Assistant Professor, 2026–present**
 
-* **Managerial Economics (ECON 350).** I combine lectures on pricing, competition, uncertainty, and organizational incentives with case discussions following the Harvard Business School case method. Students develop, critique, and defend managerial recommendations. In a team project, they analyze a real product or service and communicate business strategies in a memo for a managerial audience.
-* **Economic Development (ECON 320).** Students use economic models, data, and empirical research to examine development challenges and assess policy responses. A team research project asks them to study a development problem, propose solutions grounded in evidence, and design a study to evaluate their recommendations.
+* **Economic Development (ECON 320), Fall 2026.** A 300-level undergraduate elective. Students use economic models, data, and empirical research to examine development challenges and assess policy responses. A team research project asks them to study a development problem, propose solutions grounded in evidence, and design a study to evaluate their recommendations.
+* **Managerial Economics (ECON 350), Fall 2026.** A 300-level undergraduate elective. I combine lectures on pricing, competition, uncertainty, and organizational incentives with case discussions following the Harvard Business School case method. Students develop, critique, and defend managerial recommendations. In a team project, they analyze a real product or service and communicate business strategies in a memo for a managerial audience.
+* **Intermediate Microeconomics, Spring 2027 (scheduled).**
 
-I am scheduled to teach **Intermediate Microeconomics in Spring 2027**.
+### University of California, Berkeley
 
-**Graduate Student Instructor - Economic Analysis for Business Decisions [MBA201A]** (MBA level course)\
-*Haas School of Business, University of California, Berkeley*\
-Fall 2020, Fall 2021, Fall 2022
-
-**Primary Instructor - Principles of Economics [ECON1]** (Undergraduate level course)\
-*Department of Economics, University of California, Berkeley*\
+**Primary Instructor, Department of Economics**\
 Summer 2022
 
+* **Principles of Economics (ECON 1)**, undergraduate course.
+
+**Graduate Student Instructor, Haas School of Business**\
+Fall 2020, Fall 2021, Fall 2022
+
+* **Economic Analysis for Business Decisions (MBA 201A)**, MBA course.
 
 -----
 
